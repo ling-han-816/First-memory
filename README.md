@@ -91,7 +91,7 @@
   <div class="main-container">
     <!-- 添加圖片 -->
     <div class="photo-container">
-      <img src="姚曉棠&張新成.jpg" alt="Song Image" class="photo"> <!-- 在這裡替換成你的圖片路徑 -->
+      <img src="S__14377005.jpg" alt="Song Image" class="photo"> <!-- 在這裡替換成你的圖片路徑 -->
     </div>
 
     <!-- 歌名和團名 -->
