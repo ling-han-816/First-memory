@@ -91,7 +91,7 @@
   <div class="main-container">
     <!-- 添加圖片 -->
     <div class="photo-container">
-      <img src="S__14377005.jpg" alt="Song Image" class="photo"> <!-- 在這裡替換成你的圖片路徑 -->
+      <img src="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/14442692/IMG_8584.HEIC" alt="Song Image" class="photo"> <!-- 在這裡替換成你的圖片路徑 -->
     </div>
 
     <!-- 歌名和團名 -->
